@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Pixel Script',
-  tagline: 'Pixel Scripts are cool',
+  title: 'Create Stunning Videos in Seconds',
+  tagline: 'Unlock Your Creativity with Effortless Video Generation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
